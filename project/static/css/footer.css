@@ -1,0 +1,161 @@
+/*下面*/
+.con1{
+	width: 100%;
+	height: 155px;
+	min-width: 1200px;
+	background-color: #fff;
+}
+.con1 .conter{
+	width: 1185px;
+	height: 155px;
+	margin: 0 auto;
+	/*border-bottom: 1px solid #e4e4e4;*/
+}
+.con1 .conter ul li{
+	width: 235px;
+	float: left;
+	text-align: center;
+	position: relative;
+	padding-top: 40px;
+}
+/*.lis .conter ul li h3{
+	padding-left: 40px;
+}*/
+.con1 .conter ul li p{
+	font-size: 14px;
+    color: #6C6C6C;
+    padding-top: 8px;
+}
+.con1 .conter ul li img{
+	position: absolute;
+	top: 40px;
+	left: 40px;
+}
+.con1 .conter ul li h3,.con1 .conter ul li p{
+	padding-left: 40px;
+}
+.con1 .conter ul li:nth-of-type(2) p,.con1 .conter ul li:nth-of-type(4) p{
+	padding-left: 60px;
+}
+.con1 .conter ul li:nth-of-type(2) img{
+	position: absolute;
+	top: 40px;
+	left: 50px;
+}
+.con1 .conter ul li:nth-of-type(3) p,.con1 .conter ul li:nth-of-type(5) p{
+	padding-left: 85px;
+}
+.con1 .conter ul li:nth-of-type(3) img,.con1 .conter ul li:nth-of-type(5) img{
+	position: absolute;
+	top: 40px;
+	left: 50px;
+}
+.footop{
+	width: 100%;
+	height: 280px;
+	min-width: 1200px;
+	background-color: #FFFFFF;
+}
+.footop .conter{
+	width: 1185px;
+	height: 280px;
+	margin: 0 auto;
+	position: relative;
+}
+.footop .fteft{
+	width: 900px;
+	height: 280px;
+	float: left;
+}
+.footop .fteft div{
+	width: 180px;
+	float: left;
+	line-height: 25px;
+}
+.footop .fteft h3{
+	font-size: 12px;
+}
+.footop .fteft a{
+	font-size: 12px;
+	color: #6C6C6C;
+	text-decoration: none;
+}
+.footop .fteft a:hover{
+	color: #EC3E7D;
+}
+.footop .rfoot{
+	width: 280px;
+	height: 180px;
+	float: right;
+	padding-top: 10px;
+}
+.footop .rfoot .wb img{
+	width: 120px;
+	height: 120px;
+}
+.footop .rfoot .wx img{
+	width: 120px;
+	height: 120px;
+}
+.footop .rfoot .wb{
+	width: 120px;
+	height: 120px;
+	float: left;
+	text-align: center;
+}
+.footop .rfoot .wx{
+	width: 120px;
+	height: 120px;
+	float: right;
+	text-align: center;
+}
+.footop .rfoot .wb p{
+	font-size: 12px;
+	color: #6C6C6C;
+	padding-top: 10px;
+}
+.footop .rfoot .wx p{
+	font-size: 12px;
+	color: #6C6C6C;
+	padding-top: 10px;
+}
+.footop .pf{
+	width: 840px;
+	cursor: pointer;
+	/*height: 112px;*/
+	position: absolute;
+	bottom: 30px;
+	left: 0;
+}
+
+.foot{
+	width: 100%;
+	height: 104px;
+	min-width: 1200px;
+	background-color: #000000;
+}
+.foot .conter{
+	width: 1185px;
+	height: 104px;
+	margin: 0 auto;
+	/*line-height: 104px;*/
+}
+.foot .conter li{
+	float: left;
+	color: #FFFFFF;
+	padding-top: 30px;
+}
+.foot .conter li a{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 13px;
+	font-family: 黑体;
+	/*font-weight: bold;*/
+}
+.foot .conter p{
+	color: #fff;
+	font-size: 13px;
+	font-family: 黑体;
+	padding-top: 40px;
+}
+
